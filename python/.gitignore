@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 
 harvard500.mat
+*.pdf
+*.html
